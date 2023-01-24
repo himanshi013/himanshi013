@@ -16,6 +16,7 @@
 - 🧑‍💻 Doing Competitive programing on cf nd cc
 - 💞️ I’m looking to collaborate on web developing
 - 📫 How to reach me - you can msg me on insta- <a href ="https://www.instagram.com/himanshi_0402/">@himanshi_0402</a> , Email: himanshi0402@gmail.com
+- [![@Himanshi's Holopin board](https://www.holopin.io/@himanshi013)](https://www.holopin.io/@himanshi013)
 - <!-- Stats of my activity on Github -->
 
 <details open> 
