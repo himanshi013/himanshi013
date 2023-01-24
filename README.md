@@ -39,7 +39,7 @@
 <p align="center">
   
  <a href="https://www.linkedin.com/in/himanshi-srivastava-b22371223">
-   <img alt="himanshi" src="https://img.shields.io/badge/-bhawana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshi-srivastava-b22371223">
+   <img alt="himanshi" src="https://img.shields.io/badge/-himanshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshi-srivastava-b22371223">
  </a>
   
  <a href="mailto:himanshi0402@gmail.com">
